@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Liter&display=swap');
+
+body {
+    font-family: "Liter", serif;
+    font-weight: 400;
+    font-style: normal;
+    text-align: center;
+}
+
+button {
+    padding: 10px 20px;
+    background-color: aquamarine;
+    font-weight: bold;
+    cursor: pointer;
+}
+
